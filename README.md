@@ -1,4 +1,4 @@
-This is a simple project to start with
+This is a simple project to start
 
 A project to help me manage my money better
 
